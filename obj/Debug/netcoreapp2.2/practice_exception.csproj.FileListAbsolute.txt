@@ -1,0 +1,11 @@
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.csprojAssemblyReference.cache
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.csproj.CoreCompileInputs.cache
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.AssemblyInfoInputs.cache
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.AssemblyInfo.cs
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/bin/Debug/netcoreapp2.2/practice_exception.deps.json
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/bin/Debug/netcoreapp2.2/practice_exception.runtimeconfig.json
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/bin/Debug/netcoreapp2.2/practice_exception.runtimeconfig.dev.json
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/bin/Debug/netcoreapp2.2/practice_exception.dll
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/bin/Debug/netcoreapp2.2/practice_exception.pdb
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.dll
+/Users/maiukawa/projects/2020_projets/practice_exception/practice_exception/obj/Debug/netcoreapp2.2/practice_exception.pdb
